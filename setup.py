@@ -1,4 +1,5 @@
 from setuptools import setup
+import requests
 
 
 requirements = ["requests>=2.20.0,<3.0"]
